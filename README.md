@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on building an awesome app!
 - 📫 How to reach me ... info@batesbrandinggroup.con
 - 😄 Pronouns: ...she, her
-- ⚡ Fun fact: ... I saw a spaceship, up close, for real! I'll never be the same!
+- ⚡ Fun fact: ... I LOVE TO BE THE FIRST!
 
 <!---
 batesbranding/batesbranding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
