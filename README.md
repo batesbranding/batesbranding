@@ -1,12 +1,20 @@
-- 👋 Hi, I’m jay@batesbranding
-- 👀 I’m interested in ...learning how to code.
-- 🌱 I’m currently learning ... all about Ai. I want to start with Python.
-- 💞️ I’m looking to collaborate on building an awesome app!
-- 📫 How to reach me ... info@batesbrandinggroup.con
-- 😄 Pronouns: ...she, her
-- ⚡ Fun fact: ... I LOVE TO BE THE FIRST!
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
 
-<!---
-batesbranding/batesbranding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/9bf13f25-5cac-4476-a1ab-c107c8072953
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
